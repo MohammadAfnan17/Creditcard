@@ -1,6 +1,1 @@
-# Project
-# CampusConnect
-# CampusConnect
-# Creditcard
-# amazonclone
-# amazonclone
+# Project : Credit Card Clone
